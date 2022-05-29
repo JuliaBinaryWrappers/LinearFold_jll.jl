@@ -1,0 +1,288 @@
+[[LinearFold]]
+arch = "aarch64"
+git-tree-sha1 = "f002dec8a5c54b188f7f676f97985582bf81a232"
+os = "macos"
+
+    [[LinearFold.download]]
+    sha256 = "9aeeb35ddb44b446c75b6cf92e88458aa519347de9a2765f41ea4ca4fc877c6b"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.aarch64-apple-darwin.tar.gz"
+[[LinearFold]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d736e3e9a4004960e6ec16aeb3b44722ecff5a80"
+libc = "glibc"
+os = "linux"
+
+    [[LinearFold.download]]
+    sha256 = "3adfc733abb7a32b1da00f6f68f883aee5f72a4d161be67cbbcfb6e9f3e67556"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[LinearFold]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "15608aaf224fd56f5f7b8c165083fea7ffb49a73"
+libc = "glibc"
+os = "linux"
+
+    [[LinearFold.download]]
+    sha256 = "ca08cf9fd86c4e9d7b326cd26a6c46070f1c8002891fe6292d4a7e7404725155"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[LinearFold]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "220c14a28d0549fd965561c743f095c8e3297316"
+libc = "musl"
+os = "linux"
+
+    [[LinearFold.download]]
+    sha256 = "690aca45dc22fce4b3037cc1f36f7dd6efea731c1f8608eb3809ff055e4334b8"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.aarch64-linux-musl-cxx03.tar.gz"
+[[LinearFold]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "39ad8f9395317a6a856f8a3dcbfff0d56b4dd97f"
+libc = "musl"
+os = "linux"
+
+    [[LinearFold.download]]
+    sha256 = "2ab0d8c93ed5aa6b6839088e1c5a7de746a3ee228d6000fda9a5b90985dd6a32"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.aarch64-linux-musl-cxx11.tar.gz"
+[[LinearFold]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "88f7afee84ea6891cc719eb02e9f8604decc6f70"
+libc = "glibc"
+os = "linux"
+
+    [[LinearFold.download]]
+    sha256 = "5ad961ed81ab6914d940b52606e0a438ef2256df9910d3cf3b4ad95db401e3fc"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[LinearFold]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "593f1c8c42ba6b528778696a6c5b855cd02db971"
+libc = "glibc"
+os = "linux"
+
+    [[LinearFold.download]]
+    sha256 = "6aa913b25e92e73ba661dee200213a9a934b77f98910bcf9f092a4ee83e7df7b"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[LinearFold]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c7790af9ee8e2f2848a83d658bfe3e2c7d5c27d2"
+libc = "musl"
+os = "linux"
+
+    [[LinearFold.download]]
+    sha256 = "5ee5ba3a387adfae3494c3422352b5a631d10aa4008ee9722148205dd4b61df6"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[LinearFold]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "001264614b467290aab555029af23ed9d6acf40d"
+libc = "musl"
+os = "linux"
+
+    [[LinearFold.download]]
+    sha256 = "b048eb5d20e3e265864a9eaebbf1ea52b20ff31e0da37288fe47f2853c97cea8"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[LinearFold]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3898ceed86017c4ce45137b4b889582c7bb43a53"
+libc = "glibc"
+os = "linux"
+
+    [[LinearFold.download]]
+    sha256 = "109d5123ab77cbe0c3542581232013f615bb8dc26417ce354b756c8e764333a5"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[LinearFold]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f3ca1a33aa440cb7c57518db9259c165f4dd28d5"
+libc = "glibc"
+os = "linux"
+
+    [[LinearFold.download]]
+    sha256 = "b18a7d39bdf240c557fdb8a8850c195018954f688d7c89b95cc8054c7104a4e2"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[LinearFold]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a49869f3641414fe412ea14f9bdeba0c662fd210"
+libc = "musl"
+os = "linux"
+
+    [[LinearFold.download]]
+    sha256 = "8d3a6a1ebcaee60989baf52f87356dcbdc7073ed9acdd8b86865394773d75a6c"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[LinearFold]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "09a25c87c7b463acdbd2cac60d39fd1a3a083ba3"
+libc = "musl"
+os = "linux"
+
+    [[LinearFold.download]]
+    sha256 = "f6224031261448a3eadc3cdf8ce4d616e70b4a48329e6056c0f4434b495147ab"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[LinearFold]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4cbd879a213c94ddbc0480affeee8455ebff33cc"
+libc = "glibc"
+os = "linux"
+
+    [[LinearFold.download]]
+    sha256 = "d00c0722ac02e5197eb147f4f69b95dcf24d66b23a5f58766353a2fa518613ff"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.i686-linux-gnu-cxx03.tar.gz"
+[[LinearFold]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "102f8c7387b4c126b1120c3d4546cf49aceb020a"
+libc = "glibc"
+os = "linux"
+
+    [[LinearFold.download]]
+    sha256 = "830af564883c53b7b1605479824726d5e1ab37e18807914cd72a8e32ecbcb82e"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.i686-linux-gnu-cxx11.tar.gz"
+[[LinearFold]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "074a195bff07c9b28cad83067b81d311709febf6"
+libc = "musl"
+os = "linux"
+
+    [[LinearFold.download]]
+    sha256 = "b4316ba8f32858fd918665f36e115df45f07cf8970a6ac4d518c1d8ed4f6d861"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.i686-linux-musl-cxx03.tar.gz"
+[[LinearFold]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4aba9b66afa4f666df491504a4fec08893a73374"
+libc = "musl"
+os = "linux"
+
+    [[LinearFold.download]]
+    sha256 = "776150cb76673206f0daa35f81b2904f33c52e511fd66f3390c529e250bb48a4"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.i686-linux-musl-cxx11.tar.gz"
+[[LinearFold]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c6cc3860e564ad5805f380dca807b93f2f2710ed"
+os = "windows"
+
+    [[LinearFold.download]]
+    sha256 = "378622edc669b1178275e35503a14b43507e6e12c7becbaa7e2646dab38065e7"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.i686-w64-mingw32-cxx03.tar.gz"
+[[LinearFold]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "93613633005bdba0ed71b974e7f2b39eb6e2b65d"
+os = "windows"
+
+    [[LinearFold.download]]
+    sha256 = "bbd22b10a8a9d76f45709096cadbe2702ba79aacc927c96198b0205f51204ac6"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.i686-w64-mingw32-cxx11.tar.gz"
+[[LinearFold]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "576186f75989363e7e151a383e5684ab36407ea4"
+libc = "glibc"
+os = "linux"
+
+    [[LinearFold.download]]
+    sha256 = "7b1eea16c57a88db745d3e32e1ea3a134af6ab981c05d57958fc3edff91660fb"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[LinearFold]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "564d676a96becc16ccdd9fe3a6d41324b0173b3d"
+libc = "glibc"
+os = "linux"
+
+    [[LinearFold.download]]
+    sha256 = "da3e01c052eb695d9cccefd6768045fe06ea781ea6827b1578f55b7866722c91"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[LinearFold]]
+arch = "x86_64"
+git-tree-sha1 = "dab9787952172bffcc19190ca7d002555d2e9256"
+os = "macos"
+
+    [[LinearFold.download]]
+    sha256 = "61296dd7da957a4dfe8ff168594ae415c8b621f597ad2016d3477e3699a45a64"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.x86_64-apple-darwin.tar.gz"
+[[LinearFold]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f7d4caadf7eca2f2dd81900a236acc9da6d533ed"
+libc = "glibc"
+os = "linux"
+
+    [[LinearFold.download]]
+    sha256 = "14a12387a3ba48f9b4f60097f9ba3c1d70d8235747b232776711bfff6c4a169f"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[LinearFold]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ebb002f95c09e4e7c75c89a93dc0d0e45af57db2"
+libc = "glibc"
+os = "linux"
+
+    [[LinearFold.download]]
+    sha256 = "cb72f7481616d1f6aaad25005c23fc07fa012ec184774de52690a50f8e65701c"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[LinearFold]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "94db13ec5ca8de95d91814a6cb7886b9b3a5ed3b"
+libc = "musl"
+os = "linux"
+
+    [[LinearFold.download]]
+    sha256 = "3a11be2acf45d440633a4915d2c2c3da392798a75ec115b81d0f312b839938d7"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.x86_64-linux-musl-cxx03.tar.gz"
+[[LinearFold]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "094aba977d2227b801ef1f3410160dd0e20bb359"
+libc = "musl"
+os = "linux"
+
+    [[LinearFold.download]]
+    sha256 = "3e3acee968b581fc701c4c0bb3ebfe3cd1ad55112bc35296b826f3585e448ab8"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.x86_64-linux-musl-cxx11.tar.gz"
+[[LinearFold]]
+arch = "x86_64"
+git-tree-sha1 = "3d2682b53f08c6440da49e0f38aa31d5bd6525b8"
+os = "freebsd"
+
+    [[LinearFold.download]]
+    sha256 = "c58c9d1b9155d871c1b89a9e8c147a9f92bc625add6891df64625d6243f47e79"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.x86_64-unknown-freebsd.tar.gz"
+[[LinearFold]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "48ee1c57433a306fbaa71cb2b443c20992fdfb48"
+os = "windows"
+
+    [[LinearFold.download]]
+    sha256 = "2194b8aa3f35b3898555799ffaee5ec33b72aa268c2e59579d201b946372d8a5"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[LinearFold]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "696d22603ab0643948e2cc283fb64fde0e1ca9fa"
+os = "windows"
+
+    [[LinearFold.download]]
+    sha256 = "87bbfa9d43cbd784575fcfc2d231caeafc778580b0395d2c48eba5c17c276f5e"
+    url = "https://github.com/JuliaBinaryWrappers/LinearFold_jll.jl/releases/download/LinearFold-v1.0.0+0/LinearFold.v1.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
